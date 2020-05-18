@@ -4,7 +4,7 @@
         "cancel": "Nullañ",
         "continue_shopping": "Kenderc'hel gant ar prenadennoù",
         "back_to_checkout": "Distreiñ d'ar paeañ",
-        "checkout": "Paeañ",
+        "checkout": "Paeañ"
         "apply": "Lakaat da dalvezout",
         "type_address": "Biskrivit ho chomlec'h",
         "use_this_address": "Implijout ar chomlec'h-mañ",
@@ -146,8 +146,8 @@
         },
         "order_validation":{
           "domain_crawling":{
-              "title":"N'hon eus ket gallet klokaat hoc'h urzhiad.",
-              "description":"N'oc'h ket bet dleekaet. Kit e darempred gant ar gwerzher evit gouzout hiroc'h."
+              "title":"N'hon eus ket gallet kadarnaat hoc'h urzhiad.",
+              "description":"N'eus ket bet lamet arc'hant diwar ho kont. Kit e darempred gant ar gwerzher, mar plij."
           },
           "product_crawling":{
               "title":"Priz produioù zo en ho paner a seblant bezañ cheñchet.",
@@ -167,7 +167,7 @@
             "description": "Gwiriit titouroù ho kartenn-gred pe klaskit en-dro diwezhatoc'h."
         },
         "payment_authorization": {
-            "title": "Dibosupl eo klokaat ho paemant",
+            "title": "Ne c'haller ket klokaat ho paeamant",
             "default": "Gwiriit titouroù ho kartenn-gred pe klaskit en-dro diwezhatoc'h."
         },
         "customer_exists": "Implijet eo ar postel-mañ dija.",
